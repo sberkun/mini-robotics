@@ -1,12 +1,12 @@
 # Mini Robotics
 
-The goal of this project is to run an extremely low cost, extremely low skill robotics competition. If you are an individual who wants to get into robotics alone, this may also be useful to you.
+The goal of this project is to run an extremely low cost, extremely low skill robotics competition. If you are a teacher, a parent, or simply someone who wants to get into robotics, this platform is for you.
 
 The priorities (in rough order) are:
  - low skill floor: someone with no programming knowledge should be able to create and control a basic 2-wheeled robot using this platform.
  - easy entry: this platform is entirely browser-based. No software installs required.
  - low cost: under $20 per robot
- - upgradable: Someone can start with a basic 2-wheeled, Python-controlled robot, and slowly upgrade it with more features and more sophisticated code. This is pretty important for a learning platform.
+ - upgradable: Someone can start with a basic 2-wheeled, Python-controlled robot, and slowly upgrade it with more features and more sophisticated code. This is pretty important for a learning platform. If you have build a robot using this platform, and want to translate your skills into the "real world", check out what's next? upgrades and beyond [TODO].
 
 For these reasons, the project is based around the Raspberry Pi Pico 2W. It is extremely low cost, has Bluetooth capabilities, can embed MicroPython, and is powerful enough to be used for "real" projects. There are other good alternatives:
  - the original Raspberry Pi Pico W: even cheaper, but less powerful.
