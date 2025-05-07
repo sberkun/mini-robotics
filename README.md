@@ -1,4 +1,4 @@
-# Mini Robotics
+# Mini Robotics (WIP)
 
 The goal of this project is to run an extremely low cost, extremely low skill robotics competition. If you are a teacher, a parent, or simply someone who wants to get into robotics, this platform is for you.
 
